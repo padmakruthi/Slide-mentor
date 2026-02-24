@@ -1,2 +1,3 @@
 # Slide-mentor
-RAG AND MANGO DB 
+RAG AND MANGO DB  vector
+
